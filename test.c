@@ -26,7 +26,7 @@ int main() {
         if(guess < num)
             printf("Up!\n");
     }
-    printf("You Lose...\n");
+    printf("You Win...\n");
     printf("Number is %d\n",num);
     return 0;
 }
