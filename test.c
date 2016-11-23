@@ -4,7 +4,7 @@
 
 int main() {
     
-    printf("AAAAAA\n");
+    printf("BBBBBB\n");
 
     srand(time(NULL));
     int i,num;
