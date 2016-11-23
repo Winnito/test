@@ -4,6 +4,8 @@
 
 int main() {
     
+    printf("AAAAAA\n");
+
     srand(time(NULL));
     int i,num;
     int guess;
